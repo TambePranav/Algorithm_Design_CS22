@@ -1,7 +1,5 @@
 
-/* Name - Nishant  Singh
-Roll No - 2104221
-
+/*
 Name - Pranav Tambe
 Roll No - 2106339 */
 
